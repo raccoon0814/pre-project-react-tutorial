@@ -12,12 +12,11 @@ const ButtonContainer = styled.div`
 const UpdownButton = styled.button`
   width: 30px;
   height: 30px;
-  background-color: rgb(36.19.15);
 `;
 
 const NumberContainer = styled.div`
   text-align: center;
-  color: black;
+  color: rgb(36, 19, 15);
   margin-bottom: 20px;
   font-weight: 700;
 `;
